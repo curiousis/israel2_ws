@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/Users/amuri/miniconda3/envs/ROS/bin/python3
 
 
 import rospy
